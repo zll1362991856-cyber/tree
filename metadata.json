@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Christmas Tree",
+  "description": "A mesmerizing 3D particle Christmas tree with interactive gestures and AI-generated holiday wishes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
